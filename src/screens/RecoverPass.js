@@ -40,7 +40,7 @@ const RecoverPass = ({ navigation }) => {
       </View>
       <View>
             <TextInput
-              label="EMAIL OR PHONE NUMBER"
+              label="EMAIL"
               value={firstName}
               mode="outlined"
               activeOutlineColor="red"
